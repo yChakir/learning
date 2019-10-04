@@ -2,42 +2,42 @@
 
 ## Java
 
-[] Design patterns
-[] Spring framework basics
-[] Spring framework advanced
-[] Tests
+- [] Design patterns
+- [] Spring framework basics
+- [] Spring framework advanced
+- [] Tests
 
-## Devops
+- ## Devops
 
-[] Linux basics
-[x] Docker
-[x] Docker compose
-[] Kubernetes
-[] Jenkins x (or others)
-[] Sonarqube
+- [] Linux basics
+- [x] Docker
+- [x] Docker compose
+- [] Kubernetes
+- [] Jenkins x (or others)
+- [] Sonarqube
 
-## Mobile
+- ## Mobile
 
-[] Android basics
-[] IOS basics
-[] Dart
-[] Flutter
-[] Nativescript (mabe, too rethink after completing flutter)
+- [] Android basics
+- [] IOS basics
+- [] Dart
+- [] Flutter
+- [] Nativescript (mabe, too rethink after completing flutter)
 
-## Typescript
+- ## Typescript
 
-[] Typescript documentation
-[] Typescript design patterns
+- [] Typescript documentation
+- [] Typescript design patterns
 
-## Databases
+- ## Databases
 
-### NO-SQL
+- ### NO-SQL
 
-[] MongoDB
+- [] MongoDB
 
-## Web
+- ## Web
 
-[] CSS grid
-[] CSS flexbox
-[] Html components
-[] Web sockets (socket.io maybe)
+- [] CSS grid
+- [] CSS flexbox
+- [] Html components
+- [] Web sockets (socket.io maybe)
