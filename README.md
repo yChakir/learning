@@ -24,7 +24,7 @@
 - [ ] Flutter
 - [ ] Nativescript (mabe, too rethink after completing flutter)
 
-- ## Typescript
+## Typescript
 
 - [ ] Typescript documentation
 - [ ] Typescript design patterns
