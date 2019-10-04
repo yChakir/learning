@@ -7,7 +7,7 @@
 - [ ] Spring framework advanced
 - [ ] Tests
 
-- ## Devops
+## Devops
 
 - [ ] Linux basics
 - [x] Docker
@@ -16,7 +16,7 @@
 - [ ] Jenkins x (or others)
 - [ ] Sonarqube
 
-- ## Mobile
+## Mobile
 
 - [ ] Android basics
 - [ ] IOS basics
@@ -29,13 +29,13 @@
 - [ ] Typescript documentation
 - [ ] Typescript design patterns
 
-- ## Databases
+## Databases
 
-- ### NO-SQL
+### NO-SQL
 
 - [ ] MongoDB
 
-- ## Web
+## Web
 
 - [ ] CSS grid
 - [ ] CSS flexbox
