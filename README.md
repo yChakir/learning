@@ -1,4 +1,4 @@
-# Learning curve
+# Learning topics
 
 ## Java
 
