@@ -22,7 +22,7 @@
 - [ ] IOS basics
 - [ ] Dart
 - [ ] Flutter
-- [ ] Nativescript (mabe, too rethink after completing flutter)
+- [ ] Nativescript (mabe, to rethink after completing flutter)
 
 ## Typescript
 
